@@ -1,0 +1,35 @@
+#container .box .box-cell.box1 {
+    text-align:justify;
+ }
+#container .box .box-cell.box2 {
+    text-align:justify;
+}
+#container .box .box-cell.box3 {
+    text-align:justify;
+ }
+
+  .copy_right_footer {
+   position: fixed;
+   color: #d900ff;
+   bottom: 0;
+   width: 100%;
+   background-color: #fa9cfd;
+   line-height: 3;
+   text-align: center;
+     font-family: 'Special Elite', cursive;
+
+}
+
+
+.bob
+{
+	background: #f3a7ff;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 30px 20px 18px grey;
+}
+
+
+
+
